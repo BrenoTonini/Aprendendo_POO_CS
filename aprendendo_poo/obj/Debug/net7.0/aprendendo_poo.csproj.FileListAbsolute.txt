@@ -1,0 +1,14 @@
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\obj\Debug\net7.0\aprendendo_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\obj\Debug\net7.0\aprendendo_poo.AssemblyInfoInputs.cache
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\obj\Debug\net7.0\aprendendo_poo.AssemblyInfo.cs
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\obj\Debug\net7.0\aprendendo_poo.csproj.CoreCompileInputs.cache
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\bin\Debug\net7.0\aprendendo_poo.exe
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\bin\Debug\net7.0\aprendendo_poo.deps.json
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\bin\Debug\net7.0\aprendendo_poo.runtimeconfig.json
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\bin\Debug\net7.0\aprendendo_poo.dll
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\bin\Debug\net7.0\aprendendo_poo.pdb
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\obj\Debug\net7.0\aprendendo_poo.dll
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\obj\Debug\net7.0\refint\aprendendo_poo.dll
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\obj\Debug\net7.0\aprendendo_poo.pdb
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\obj\Debug\net7.0\aprendendo_poo.genruntimeconfig.cache
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\aprendendo_poo\obj\Debug\net7.0\ref\aprendendo_poo.dll
