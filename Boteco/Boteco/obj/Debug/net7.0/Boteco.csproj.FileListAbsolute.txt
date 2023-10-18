@@ -1,0 +1,14 @@
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\obj\Debug\net7.0\Boteco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\obj\Debug\net7.0\Boteco.AssemblyInfoInputs.cache
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\obj\Debug\net7.0\Boteco.AssemblyInfo.cs
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\obj\Debug\net7.0\Boteco.csproj.CoreCompileInputs.cache
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\bin\Debug\net7.0\Boteco.exe
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\bin\Debug\net7.0\Boteco.deps.json
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\bin\Debug\net7.0\Boteco.runtimeconfig.json
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\bin\Debug\net7.0\Boteco.dll
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\bin\Debug\net7.0\Boteco.pdb
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\obj\Debug\net7.0\Boteco.dll
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\obj\Debug\net7.0\refint\Boteco.dll
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\obj\Debug\net7.0\Boteco.pdb
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\obj\Debug\net7.0\Boteco.genruntimeconfig.cache
+C:\Users\breno\Documents\GitHub\Aprendendo_POO_CS\Boteco\Boteco\obj\Debug\net7.0\ref\Boteco.dll
